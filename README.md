@@ -1,7 +1,6 @@
 
 
 ---
-
 # 📊 **Amazon Prime Video Dashboard** 🚀
 
 🌟 **Exciting News!** I’m thrilled to announce the launch of my **Tableau Dashboard** crafted from the **Amazon Prime Video dataset**! 🍿📈 This interactive visualization invites you to explore the fascinating world of **entertainment analytics**. 🎬
